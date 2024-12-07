@@ -12,11 +12,11 @@ Little Lemon is a family-owned Mediterranean restaurant located in Chicago. This
 ## Screenshots
 
 ### Homepage
-![Little Lemon Homepage](screenshots/little1.jpg)
+![Little Lemon Homepage](screenshoots/little1.jpg)
 *Homepage featuring our restaurant's ambiance and main navigation*
 
 ### Reservation System
-![Reservation Form](screenshots/little2.jpg)
+![Reservation Form](screenshoots/little2.jpg)
 *Our intuitive reservation form allowing customers to book tables easily*
 
 ## Technologies Used
