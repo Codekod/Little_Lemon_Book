@@ -34,4 +34,4 @@ Little Lemon is a family-owned Mediterranean restaurant located in Chicago. This
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/little-lemon.git
+git clone https://github.com/Codekod/Little_Lemon_Book.git
